@@ -1,3 +1,4 @@
+# Name goes here
 try:
     from setuptools import setup
 except ImportError:
